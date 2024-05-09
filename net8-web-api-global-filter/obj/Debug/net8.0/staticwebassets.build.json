@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ShAanSXp1WDVa5QRAoHUQtt9aw6MXYwS202nNHSiQcs=",
+  "Source": "net8-web-api-global-filter",
+  "BasePath": "_content/net8-web-api-global-filter",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

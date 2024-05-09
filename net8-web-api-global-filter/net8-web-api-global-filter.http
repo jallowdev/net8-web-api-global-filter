@@ -1,0 +1,6 @@
+@net8_web_api_global_filter_HostAddress = http://localhost:5251
+
+GET {{net8_web_api_global_filter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
